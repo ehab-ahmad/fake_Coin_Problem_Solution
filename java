@@ -17,8 +17,8 @@ public class fake_Coin_Problem_Solution {
     public static void main(String[] args) {
         //index of the fake coin
         int counterfeit = randInt(0,11);
-        int t=0;
-        //wight of the fake coin is between 6 and 9 while the true weight is 10
+        
+        //weight of the fake coin is between 6 and 9 while the true weight is 10
     int counterValue = randInt(6,9);
     
     System.out.print("we have 10 coins one of them is made from a lighter metal");
